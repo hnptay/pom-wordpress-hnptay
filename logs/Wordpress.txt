@@ -1,0 +1,2 @@
+[INFO ] [2020-12-14 00:44:21,841] OS name = windows 10
+[INFO ] [2020-12-14 00:44:22,777] ---------- QUIT BROWSER SUCCESS ----------

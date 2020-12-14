@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on Chrome"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.064">
+  <properties />
+  
+  
+            <testcase name="TC_01_loginToWordPress" time="5.317" classname="testcases.com_wordpress_login.Login_12_Log_and_Report" />
+                <testcase name="TC_02_elementUndisplayedInDOM" time="2.747" classname="testcases.com_wordpress_login.Login_12_Log_and_Report" />
+      
+</testsuite>
